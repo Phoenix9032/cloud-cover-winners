@@ -56,7 +56,7 @@ PyWavelets==1.2.0
 PyYAML==6.0
 qudida==0.0.4
 rasterio==1.2.10
-requests==2.27.1
+requests==2.32.4
 rioxarray==0.9.1
 scikit-image==0.19.1
 scikit-learn==1.0.2
