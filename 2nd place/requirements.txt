@@ -77,7 +77,7 @@ torchvision==0.8.2+cu101
 tornado==6.1
 tqdm==4.62.3
 typing-extensions @ file:///tmp/build/80754af9/typing_extensions_1631814937681/work
-urllib3==1.26.8
+urllib3==2.5.0
 xarray==0.20.2
 xarray-spatial==0.3.2
 zict==2.0.0
