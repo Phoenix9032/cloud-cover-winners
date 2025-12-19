@@ -74,7 +74,7 @@ torch==1.7.1+cu101
 torchaudio==0.7.2
 torchsummary==1.5.1
 torchvision==0.8.2+cu101
-tornado==6.1
+tornado==6.5.3
 tqdm==4.62.3
 typing-extensions @ file:///tmp/build/80754af9/typing_extensions_1631814937681/work
 urllib3==1.26.8
