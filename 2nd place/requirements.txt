@@ -1,7 +1,7 @@
 affine==2.3.0
 albumentations==1.1.0
 attrs==21.4.0
-bokeh==2.4.2
+bokeh==3.8.2
 certifi==2021.10.8
 change-detection-pytorch==0.1.4
 charset-normalizer==2.0.11
@@ -70,14 +70,14 @@ threadpoolctl==3.0.0
 tifffile==2021.11.2
 timm==0.4.12
 toolz==0.11.2
-torch==1.7.1+cu101
+torch==2.9.0+cu101
 torchaudio==0.7.2
 torchsummary==1.5.1
 torchvision==0.8.2+cu101
 tornado==6.1
 tqdm==4.62.3
 typing-extensions @ file:///tmp/build/80754af9/typing_extensions_1631814937681/work
-urllib3==1.26.8
+urllib3==2.6.3
 xarray==0.20.2
 xarray-spatial==0.3.2
 zict==2.0.0
