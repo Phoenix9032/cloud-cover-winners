@@ -14,7 +14,7 @@ dask==2022.1.1
 dataclasses==0.6
 datashader==0.13.0
 datashape==0.5.2
-distributed==2022.1.1
+distributed==2026.1.0
 efficientnet-pytorch==0.6.3
 fsspec==2022.1.0
 future==0.18.2
@@ -70,7 +70,7 @@ threadpoolctl==3.0.0
 tifffile==2021.11.2
 timm==0.4.12
 toolz==0.11.2
-torch==1.7.1+cu101
+torch==2.10.0+cu101
 torchaudio==0.7.2
 torchsummary==1.5.1
 torchvision==0.8.2+cu101
@@ -82,3 +82,4 @@ xarray==0.20.2
 xarray-spatial==0.3.2
 zict==2.0.0
 zipp==3.7.0
+wheel>=0.46.2 # not directly required, pinned by Snyk to avoid a vulnerability
